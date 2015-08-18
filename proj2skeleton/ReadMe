@@ -1,0 +1,8 @@
+Student NetId: newmane7 (eric newman), I am working with reuterni (nick reuter)
+Responsibilities: Nick worked on creating threads, synchronization, and sorting (merge)
+		  Eric worked on synchronization and sorting (insertion sort, compare records)
+	          we both worked together on the final debugging and we spent some time before 
+		  deciding to group up working alone for what it's worth.
+
+Compilation tested on: ned, skinner
+Command for compile: make -f Makefile
